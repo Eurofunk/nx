@@ -798,6 +798,43 @@
           "alwaysAddToPackageJson": false
         }
       }
+    },
+    "14.5.5": {
+      "version": "14.5.5-beta.0",
+      "packages": {
+        "@types/react-native": {
+          "version": "0.69.5",
+          "alwaysAddToPackageJson": false
+        },
+        "metro": {
+          "version": "0.72.0",
+          "alwaysAddToPackageJson": false
+        },
+        "metro-resolver": {
+          "version": "0.72.0",
+          "alwaysAddToPackageJson": false
+        },
+        "metro-babel-register": {
+          "version": "0.72.0",
+          "alwaysAddToPackageJson": false
+        },
+        "metro-config": {
+          "version": "0.72.0",
+          "alwaysAddToPackageJson": false
+        },
+        "metro-react-native-babel-preset": {
+          "version": "0.72.0",
+          "alwaysAddToPackageJson": false
+        },
+        "@react-native-community/cli": {
+          "version": "8.0.5",
+          "alwaysAddToPackageJson": false
+        },
+        "@react-native-community/cli-platform-android": {
+          "version": "8.0.5",
+          "alwaysAddToPackageJson": false
+        }
+      }
     }
   }
 }

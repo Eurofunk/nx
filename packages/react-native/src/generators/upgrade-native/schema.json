@@ -8,10 +8,9 @@
   "properties": {
     "name": {
       "type": "string",
-      "description": "Project name.",
+      "description": "Application project name to upgrade native files.",
       "$default": {
-        "$source": "argv",
-        "index": 0
+        "$source": "projectName"
       }
     },
     "displayName": {
